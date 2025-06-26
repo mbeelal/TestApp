@@ -1,0 +1,16 @@
+phrase:
+  access_token: fe7508098e728eaf927e0c9b681671a64c846617ba41171952292f5f1dded91f
+  project_id: 5f687b20b5897ffc289ec24acef767da
+  push:
+    sources:
+      - file: ./app/src/main/res/values/strings.xml
+        params:
+          file_format: xml
+          locale_id: en
+          update_translations: true
+  pull:
+    targets:
+      - file: ./app/src/main/res/values-es-rUS/strings.xml
+        params:
+          file_format: xml
+          locale_id: es
