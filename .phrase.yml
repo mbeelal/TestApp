@@ -10,6 +10,10 @@ phrase:
           update_translations: true
   pull:
     targets:
+      - file: ./app/src/main/res/values/strings.xml
+        params:
+          file_format: xml
+          locale_id: en
       - file: ./app/src/main/res/values-es-rUS/strings.xml
         params:
           file_format: xml
