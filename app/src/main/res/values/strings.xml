@@ -14,7 +14,8 @@
     <string name="do_not_hold_too_close">Don’t hold item\ntoo close to sensor</string>
     <string name="face_it">Face it.</string>
     <string name="first_time_user_question">First time using the new Caper Cart?</string>
-    <string name="hello">Helle</string>
+    <string name="hello">Hello World</string>
+    <string name="hello1">Hell new</string>
     <string name="how_to_add_barcode_item">How to add\nbarcode items</string>
     <string name="how_to_add_produce">How to add produce</string>
     <string name="next">Next</string>
