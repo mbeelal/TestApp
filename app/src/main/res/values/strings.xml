@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MyTestLib</string>
     <string name="hello">Hello World</string>
-    <string name="hello1">Hell new</string>
+    <string name="hello1">Hell Var</string>
 </resources>
