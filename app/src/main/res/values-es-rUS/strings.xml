@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="first_time_user_question">¿Es la primera vez que usas el nuevo carro de alcaparras?</string>
+    <string name="hello">Holla</string>
+    <string name="hello1">Infierno Var</string>
+    <string name="how_to_add_produce">Cómo agregar productos</string>
+    <string name="next">Próximo</string>
+    <string name="no">No</string>
+    <string name="start_shopping">¡Empieza a comprar!</string>
+    <string name="yes_guide_me">Sí, gudo</string>
+</resources>

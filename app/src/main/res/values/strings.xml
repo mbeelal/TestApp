@@ -1,5 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">MyTestLib</string>
+    <string name="barcode_onboarding_content_description_step_1_m3">How to add barcode items. Header.</string>
+    <string name="barcode_onboarding_content_description_step_1_m3l">How to add barcode items. Header.</string>
+    <string name="barcode_onboarding_content_description_step_2_m3">Your cart recognizes items you put in it.</string>
+    <string name="barcode_onboarding_content_description_step_2_m3l">Your cart recognizes items you put in it.</string>
+    <string name="barcode_onboarding_content_description_step_3_m3">Face barcodes towards any of the cart’s 4 sensors located in each corner of the cart. The cart’s lights will turn green and a beep sound will play. This means the cart recognizes the item and you can place the item in the cart.</string>
+    <string name="barcode_onboarding_content_description_step_3_m3l">Face barcodes towards the cart’s barcode scanner located behind the tablet screen. The cart’s lights will turn green and a beep sound will play. This means the cart recognizes the item and you can place the item in the cart.</string>
+    <string name="barcode_onboarding_content_description_step_4_m3">Don’t hold the item too close to a sensor. Please allow at least 3 inches, or the length of a credit card, between the barcode and sensor so the sensor can recognize the item.</string>
+    <string name="barcode_onboarding_content_description_step_4_m3l">Don’t hold the item too close to the barcode scanner. Please allow at least three inches, or the length of a credit card, between the barcode and scanner so the scanner can recognize the item.</string>
+    <string name="beep">\"Beep\"</string>
+    <string name="cart_will_weigh">Your cart will\nweigh it</string>
+    <string name="do_not_hold_too_close">Don’t hold item\ntoo close to sensor</string>
+    <string name="face_it">Face it.</string>
+    <string name="first_time_user_question">First time using the new Caper Cart?</string>
     <string name="hello">Hello World</string>
     <string name="hello1">Hell Var</string>
+    <string name="how_to_add_barcode_item">How to add\nbarcode items</string>
+    <string name="how_to_add_produce">How to add produce</string>
+    <string name="next">Next</string>
+    <string name="no">No</string>
+    <string name="place_it">Place it.</string>
+    <string name="produce_onboarding_content_description_step_1">How to add produce. Header.</string>
+    <string name="produce_onboarding_content_description_step_2">Find produce code.</string>
+    <string name="produce_onboarding_content_description_step_3">The produce code may be on a sign or on a sticker attached to the item.</string>
+    <string name="produce_onboarding_content_description_step_4">Before placing produce into cart, tap “Add item” on the cart screen. And then enter the produce code.</string>
+    <string name="produce_onboarding_content_description_step_5">Place your items in the cart. The bottom of Caper Cart is also a scale.</string>
+    <string name="produce_onboarding_step_1">Tap the item you want to add</string>
+    <string name="produce_onboarding_step_2">Or search for the item here</string>
+    <string name="produce_onboarding_tooltip_steps">%1$s of %2$s</string>
+    <string name="put_produce_in_cart">Put produce in\nyour cart</string>
+    <string name="reply">Replay</string>
+    <string name="skip">Skip</string>
+    <string name="start_shopping">Start Shopping!</string>
+    <string name="tap_add_item">Than tap the item you\'re adding</string>
+    <string name="tap_add_item_when_ready">Tap \"Add item…\"\nwhen you\'re ready to add produce</string>
+    <string name="unplug_to_start_shopping">Remove cart from stack to start</string>
+    <string name="yes_guide_me">Yes, guido me</string>
+    <string name="you_can_also_search">You can also\nsearch for it</string>
 </resources>
