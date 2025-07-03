@@ -1,5 +1,5 @@
 phrase:
-  access_token: fe7508098e728eaf927e0c9b681671a64c846617ba41171952292f5f1dded91f
+  access_token: PHRASE_ACCESS_TOKEN
   project_id: 5f687b20b5897ffc289ec24acef767da
   push:
     sources:
