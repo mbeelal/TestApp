@@ -2,4 +2,5 @@
     <string name="app_name">MyTestLib</string>
     <string name="hello">Hello World</string>
     <string name="hello1">Hell Var</string>
+    <string name="example">Example</string>
 </resources>
