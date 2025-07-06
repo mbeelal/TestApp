@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="aldi_branding">Caper Cart</string>
     <string name="app_name">MyTestLib</string>
     <string name="barcode_onboarding_content_description_step_1_m3">How to add barcode items. Header.</string>
     <string name="barcode_onboarding_content_description_step_1_m3l">How to add barcode items. Header.</string>
@@ -12,6 +13,7 @@
     <string name="beep">\"Beep\"</string>
     <string name="cart_will_weigh">Your cart will\nweigh it</string>
     <string name="do_not_hold_too_close">Don’t hold item\ntoo close to sensor</string>
+    <string name="example">Example</string>
     <string name="face_it">Face it.</string>
     <string name="first_time_user_question">First time using the new Caper Cart?</string>
     <string name="hello">Hello World</string>

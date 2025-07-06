@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="aldi_branding">Smarti</string>
+    <string name="example">Ejemplo</string>
     <string name="first_time_user_question">¿Es la primera vez que usas el nuevo carro de alcaparras?</string>
     <string name="hello">Holla</string>
     <string name="hello1">Infierno Var</string>
