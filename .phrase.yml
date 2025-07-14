@@ -8,6 +8,8 @@ phrase:
           file_format: xml
           locale_id: en-US
           update_translations: true
+          format_options:
+            enable_pluralization: true
   pull:
     targets:
       - file: ./app/src/main/res/values/strings.xml
