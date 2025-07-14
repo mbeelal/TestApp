@@ -6,15 +6,15 @@ phrase:
       - file: ./app/src/main/res/values/strings.xml
         params:
           file_format: xml
-          locale_id: en
+          locale_id: en-US
           update_translations: true
   pull:
     targets:
       - file: ./app/src/main/res/values/strings.xml
         params:
           file_format: xml
-          locale_id: en
+          locale_id: en-US
       - file: ./app/src/main/res/values-es-rUS/strings.xml
         params:
           file_format: xml
-          locale_id: es
+          locale_id: es-US
