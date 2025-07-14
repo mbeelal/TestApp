@@ -3,4 +3,9 @@
     <string name="hello">Hello World</string>
     <string name="hello1">Hell Var</string>
     <string name="example">Example</string>
+
+    <plurals name="checkout_review_cart_subtotal">
+        <item quantity="one">%d item subtotal</item>
+        <item quantity="other">%d items subtotal</item>
+    </plurals>
 </resources>
